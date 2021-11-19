@@ -8,4 +8,6 @@ module.exports = {
     "mongodb://mongodb:D225vMSHxVOPYaWo@cluster0-shard-00-00.uis7p.mongodb.net:27017,cluster0-shard-00-01.uis7p.mongodb.net:27017,cluster0-shard-00-02.uis7p.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-ead0a4-shard-0&authSource=admin&retryWrites=true&w=majority",
   cookieKey: "123123123",
   redisURL: "redis://127.0.0.1:6379",
+  accessKeyId: "AKIAUJNQYZOXO6X7AGON",
+  secretAccessKey: "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",
 };
